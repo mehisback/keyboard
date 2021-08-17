@@ -1,3 +1,0 @@
-Hi.
-
-introduced a bug
